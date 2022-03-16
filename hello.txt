@@ -5,3 +5,4 @@ master merge conflict test
 hot-fix merge conflict test
 pull test
 ssh pull test
+ssh push test
